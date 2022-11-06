@@ -29,9 +29,7 @@ url: "https://crann-data.github.io" # the base hostname & protocol for your site
 github_username:  diarmuidkelly
 
 # Build settings
-# theme: minima
-theme: just-the-docs
-
+theme: minima
 plugins:
   - jekyll-feed
 
